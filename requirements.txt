@@ -1,0 +1,7 @@
+torch		# PyTorch - the deep learning framework for building neural networks
+transformers	# Hugging Face Library - pre-built transformer models and tools
+datasets	# Hugging Face datasets - easy access to training data like WikiText
+wandb		# Weights & Biases - experiment tracking and visualisation
+matplotlib	# For creating plots and graphs
+numpy		# Numerical computing - arrays, math operations
+tqdm		# Progress bars during training
